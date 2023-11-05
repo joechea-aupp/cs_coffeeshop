@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.pydevproject
+*.project
+*.settings/
+*.tmproj
+*.esproj
+*.sublime-workspace
+
+# Local development settings
+.env
+.env.local
+.env.*.local
+
+# Other
+*.pyc
+.DS_Store
